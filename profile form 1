@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>
+e_commerce site
+</title>
+</head>
+<body>
+ <h1>
+ profile
+ </h1>
+ </body>
+ <form>
+ <label>
+ restaurant name:
+ <input type="text" name="restaurant name" required>
+ </label>
+ <br>
+ <br>
+ <label>
+ address:
+ <input type="text" name="address">
+ </label>
+ <br>
+ <br>
+ <label>
+ vegetarian:
+ <input type="radio" name="vegetarian_ or_ pescatarian" value="vegetarian">
+ </label>
+ <label>
+ pescatarian:
+ <input type="radio" name ="vegetarian_ or _ pescatarian" value="pescatarian">
+ </label>
+<br>
+ <button type="login"> login</button>
+ </form>
+ </html>
+ <html>
+ <head>
+ <style>
+ h1{
+ font-size:2em
+ font-weight:bold;
+ text-transform:uppercase;
+ text-decoration:underline;
+ text-align:left;
+ color:#8FB8CA
+ 
+ }
+ *{ background-color:#CEDFDF}
+ button {
+ front-size:2em;
+ background-color:#A6E3CE;}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

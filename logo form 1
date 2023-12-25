@@ -1,0 +1,72 @@
+<html>
+<body>
+<img src="C:\Users\ASUS\Downloads\food industry.jfif" width="200px" height="200px">
+<strong> top offers</strong>
+<div>
+<select name="top offers" id= "top offer" required>
+<option value="0"select disabled> top offers </option>
+<option value="offer1">offer1</option>
+<option value="offer2">offer2</option>
+<option value="offer3">offer3</option>
+</select>
+</div>
+<br>
+<label>
+meat:
+<input type="radio" name="meat_or_ chicken" value="meat">
+</label>
+<br>
+<label>
+chicken:
+<input type="radio" name="meat_or_ chicken" value="chicken">
+</label>
+<br>
+<label>
+Bread:
+<input type="radio" name="meat_or_ chicken" value="Bread">
+</label>
+<br>
+<label>
+cheese:
+<input type="radio" name="meat_or_ chicken" value="Bread">
+</label>
+<br>
+<div>
+<select name="last picks" id ="last picks" required>
+<option value="0"select disabled> last picks </option>
+<option value="oil">oil</option>
+<option value="vinegar">vinegar</option>
+<option value="salt">salt</option>
+</select>
+</div>
+<html>
+<head>
+<style>
+div{
+border:20px solid#CB997E ;
+border-radius:30px 50px;
+width:fit-content;
+}
+strong{
+color: #B7D1D3;
+animation-name: my animation; 
+animation-duration: 4s;
+}
+*{
+background-color: #8FB8CA;
+}
+ <html> 
+ <body>
+ <button id ="topBtn" class="btntop" <i class= "fa fa-arrow-up"></i><button>
+ <script src="C:\Users\ASUS\Documents\js.txt"> </script>
+ </html>
+
+ 
+
+ 
+
+
+
+
+
+
